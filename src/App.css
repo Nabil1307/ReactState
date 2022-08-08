@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.btnTrue {
+  background-color: red;
+}
+.btnFalse {
+  background-color: green;
+}
